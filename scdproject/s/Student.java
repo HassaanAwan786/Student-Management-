@@ -6,6 +6,7 @@ public class Student {
        private int Age;
        private String Regno;//used as uses name 
         private String Password;
+        private String Confirm_Password;
         
        private String Email;
        private String Phone; 
